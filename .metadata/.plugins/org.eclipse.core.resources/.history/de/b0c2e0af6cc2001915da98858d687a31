@@ -7,12 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsProjectApplication {
 
 	public static void main(String[] args) {
-		
-		
 		SpringApplication.run(JenkinsProjectApplication.class, args);
-		System.out.println("Hello its just a random try");
-		Sum s1= new Sum();
-        System.out.println("The result is"+s1.add(5, 10));	
 	}
 
 }
