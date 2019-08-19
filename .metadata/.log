@@ -133,3 +133,78 @@ Caused in C:/Users/vaikarn/.m2/repository/org/glassfish/hk2/external/asm-all-rep
 	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:244)
 	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:401)
 	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:27.110
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:27.110
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@25422858[org.springframework.tooling.boot.ls:1.9.0.201907120625(id=1001)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:27.110
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:27.179
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.189
+!MESSAGE Boot LS startup time from start to initialized: 2063ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.204
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TSShKIRXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.204
+!MESSAGE subscribing to classpath changes: sts4.classpath.TSShKIRX isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.204
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.204
+!MESSAGE subsribers = {sts4.classpath.TSShKIRX=Send Classpath Notifications(1102)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.220
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.223
+!MESSAGE project Jenkins-Project ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.224
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.224
+!MESSAGE Preparing classpath changed notification Jenkins-Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.225
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TSShKIRX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.225
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.246
+!MESSAGE classpath=198 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.254
+!MESSAGE buffering callback sts4.classpath.TSShKIRX Jenkins-Project false 198
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.255
+!MESSAGE executing callback sts4.classpath.TSShKIRX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:31:29.282
+!MESSAGE executing callback sts4.classpath.TSShKIRX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.619
+!MESSAGE Preparing classpath changed notification Jenkins-Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.627
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.639
+!MESSAGE classpath=121 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.649
+!MESSAGE buffering callback sts4.classpath.TSShKIRX Jenkins-Project false 121
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.649
+!MESSAGE executing callback sts4.classpath.TSShKIRX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-19 15:32:08.657
+!MESSAGE executing callback sts4.classpath.TSShKIRX SUCCESS [done]
